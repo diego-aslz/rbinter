@@ -1,6 +1,6 @@
 # Rbinter
 
-Ruby wrapper for Banco Inter API (BolePix). Designed for EasyLemon.
+Ruby wrapper for Banco Inter API (BolePix).
 
 ## Installation
 
